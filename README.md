@@ -1,2 +1,2 @@
 # odin-recipes
-This is a basic project show casing what i have studied so far in HTML
+This is a simple html project to implement the topics that i have covered so far.
